@@ -1,0 +1,45 @@
+1) Actions – CI/CD automation workflows on GitHub.
+2) Bare Repository – A repository without a working directory, often used on servers.
+3) Blame – Shows who made changes to each line of a file.
+4) Branch – A separate line of development within a repository.
+5) Cherry-pick – Applying a specific commit from one branch to another.
+6) Clone – Copying a remote repository to your local machine.
+7) Code Review – Process of reviewing code changes in a pull request.
+8) Collaborator – Someone with permission to contribute directly to a repository.
+9) Commit – A saved change in a repository, with a unique hash ID.
+10) Contributor – Anyone who has contributed commits to a repository.
+11) Dependabot – GitHub tool for automated dependency updates.
+12) Diff – The difference between two versions of a file or commit.
+13) Fetch – Downloading changes from a remote repository without merging.
+14) Fork – A personal copy of someone else’s repository.
+15) Gist – A simple way to share small code snippets or notes.
+16) Git Hub – Unlimited Public Repository.
+17) GitHub Pages – Hosting static websites directly from a GitHub repository.
+18) HEAD – A pointer to the current commit/branch you’re working on.
+19) Hooks – Scripts that Git runs before or after certain events (e.g., pre-commit).
+20) Issues – GitHub’s built-in tool for tracking bugs, tasks, or feature requests.
+21) Maintainer – A person who manages and oversees a repository.
+22) Marketplace – A store for GitHub integrations, tools, and apps.
+23) Merge – Combining changes from one branch into another.
+24) Milestone – A collection of issues/PRs grouped toward a specific goal or release.
+25) Organization – A shared account that allows groups of people to collaborate.
+26) Origin – The default name for a remote repository when cloned.
+27) Personal Access Token (PAT) – A token used for authentication in place of a password.
+28) Project Boards – Kanban-style boards for project management.
+29) Pull – Fetching and integrating changes from a remote repository.
+30) Pull Request (PR) – A request to merge changes from one branch/repo into another.
+31) Push – Sending your local changes to a remote repository.
+32) Rebase – Moving or combining commits from one branch onto another.
+33) Repositopry – Place or a container where you can store and manage your codes/projects.
+34) Security Advisory – A notice about vulnerabilities in a project.
+35) SSH Key – A secure way to authenticate to GitHub without a password.
+36) Squash – Combining multiple commits into one.
+37) Staging Area (Index) – Where changes are prepared before committing.
+38) Stash – Temporarily storing changes without committing them.
+39) Status Checks – Automated checks to ensure code meets certain requirements before merging.
+40) Submodule – A repository embedded inside another repository.
+41) Tag – A label for a specific commit, often used for release versions.
+42) Team – A group within an organization with defined permissions.
+43) Wiki – A section of a repository for collaborative documentation.
+44) Workflow – A set of automated tasks defined in a .yml file for GitHub Actions.
+
