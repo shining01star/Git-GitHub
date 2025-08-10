@@ -1,0 +1,37 @@
+#For Installation and Initiation- Just open chrome and download Git Bash or MINGW. 
+git config --global user.name <set the user name>
+git config --global user.email <set user email>
+git init <it will initialize your empty repo>
+
+#Adding your file in staging area
+git add <filename with extension> 
+touch <filename> #add an empty file
+git add -A #to track all the files at once
+git rm --caches <filename> #to untrack any file
+
+#To check the status
+git status
+
+#to commint any message
+git commit -m "your message"
+
+#to upload the file from local to github
+git push origin main <main is branch name>
+
+#to check the branch
+git branch
+
+#to rename the branch
+git branch -M main <main is changed name>
+
+#to jump to another branch 
+git checkout -b <new branch>
+
+#to delete the branch 
+git checkout -d <branch name >
+
+#to clone the repo
+git clone <url> #that will retrieve entire repo from a hosted location via URL.
+
+#to merge the branch 
+git merge <branch name > #merge the specified branch's history into the current one
